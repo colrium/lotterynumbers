@@ -50,7 +50,7 @@ var resultCompleteText = 'YOU WON [NUMBER]PTS!'; //result complete text display
 var resultFailText = 'YOU DIDN\'T WIN!';  //result fail text display
 
 //Social share, [SCORE] will replace with game score
-var shareEnable = true; //toggle share
+var shareEnable = false; //toggle share
 var shareText = 'SHARE THIS GAME'; //social share message
 var shareTitle = 'Highscore on Lottery Numbers Game is [SCORE]PTS.';//social share score title
 var shareMessage = '[SCORE]PTS is mine new highscore on Lottery Numbers Game! Try it now!'; //social share score message
